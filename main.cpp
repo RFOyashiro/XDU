@@ -119,7 +119,7 @@ void Gacha() {
 
     for (unsigned i (0); i < Steps.size(); ++i) {
         Convert(Steps[i]);
-        if (i + 1 < 10 && Steps.size() > 10)
+        if (i + 1 < 10 && Steps.size() >= 10)
             Output << setw(2) << i + 1 << " : " << Steps[i] << endl;
         else
             Output << i + 1 << " : " << Steps[i] << endl;
