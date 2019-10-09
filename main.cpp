@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <sstream>
+#include <iomanip>
 #include <vector>
 
 using namespace std;
@@ -38,18 +39,29 @@ void Event () {
 
     Output << "__**Quest Efficiency**__" << endl
            << "```" << endl
-           << endl
+           << "-" << endl
            << "```" << endl
-           << "-----------------------------------------" << endl
            << "__**Notable Shop Item**__" << endl
            << "```" << endl;
 
+    unsigned SizeNameMax = 0;
+    for (unsigned i (0); i < VWellfares.size(); i += 3)
+        if (SizeNameMax < VWellfares[i].size())
+            SizeNameMax = VWellfares[i].size();
+
+    unsigned SizeCostMax = 0;
+     for (unsigned i (0); i < VWellfares.size(); i += 3) {
+         unsigned Thousands = (VWellfares[i + 1].size() - 1) / 3;
+         for (unsigned j (1); j <= Thousands; j++)
+             VWellfares[i+1].insert((VWellfares[i+1].size()) / 2, " ");
+         if (SizeCostMax < VWellfares[i+1].size())
+             SizeCostMax = VWellfares[i+1].size();
+     }
+
     for (unsigned i (0); i < VWellfares.size(); i += 3) {
-        Output << VWellfares[i] << " ";
-        unsigned Thousands = (VWellfares[i + 1].size() - 1) / 3;
-        for (unsigned j (1); j <= Thousands; j++)
-            VWellfares[i+1].insert((VWellfares[i+1].size()) / 2, " ");
-        Output << VWellfares[i + 1] << " (" << VWellfares[i + 2] << ")" << endl;
+        Output << left << setw(SizeNameMax) << VWellfares[i] << " : ";
+        Output << right << setw(SizeCostMax) << VWellfares[i + 1];
+        Output << " (" << VWellfares[i + 2] << ")" << endl;
     }
 
     Output << "XP Memoria (" << XPMemoria << ")" << endl
@@ -60,12 +72,10 @@ void Event () {
         Output << mat << " Awakening Materials" << endl;
 
     Output << "```" << endl
-           << "-----------------------------------------" << endl
            << "__**Special Quests**__" << endl
            << "```" << endl
-           << endl
+           << "-" << endl
            << "```" << endl
-           << "-----------------------------------------" << endl
            << "End Date : " << DateEnd << endl
            << "Shop Total : ";
     unsigned Thousands = (TotalCost.size() - 1) / 3;
@@ -102,14 +112,17 @@ void Gacha() {
     ofstream Output ("Gacha - " + GachaName + ".txt");
     Output << "__**Cost**__" << endl
            << "```" << endl
-           << endl
+           << "-" << endl
            << "```" << endl
            << "__**Steps**__" << endl
            << "```" << endl;
 
     for (unsigned i (0); i < Steps.size(); ++i) {
         Convert(Steps[i]);
-        Output << i + 1 << " : " << Steps[i] << endl;
+        if (i + 1 < 10 && Steps.size() > 10)
+            Output << setw(2) << i + 1 << " : " << Steps[i] << endl;
+        else
+            Output << i + 1 << " : " << Steps[i] << endl;
     }
 
     Output <<"```" << endl
@@ -140,16 +153,3 @@ int main()
     Gacha();
     return 0;
 }
-/*
-```
-__**Rate-up**__
-```
-Symphogear :
-    - Demon's Angry Shout
-    - BLOODY†CURSE
-Memoria :
-    - Dangerous P.E. Storage Room
-    - Visible Catastrophe
-```
-End date : 2019/10/16 6:59 CEST
-*/
