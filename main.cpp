@@ -20,6 +20,7 @@ void Event () {
     string EventName, line, XPMemoria, XPSymphogear, Gold, Mats, DateEnd, CurrencyName, TotalCost;
     vector<string> VMats;
     vector<string> Wellfares;
+    vector<string> WellfaresRari;
     ifstream Input ("Event.txt");
 
     getline(Input, EventName);
@@ -27,6 +28,8 @@ void Event () {
 
     while (line != "0"){
         Wellfares.push_back(line);
+        getline(Input, line);
+        WellfaresRari.push_back(line);
         getline(Input, line);
     }
 
@@ -46,8 +49,12 @@ void Event () {
            << endl
            << "__**Notable Shop Item**__" << endl;
 
-    for (unsigned i (0); i < Wellfares.size(); ++i)
-        Output << Wellfares[i] << endl;
+    for (unsigned i (0); i < Wellfares.size(); ++i) {
+        Output << Wellfares[i] << "   ";
+        for (unsigned j (0); j < stoi(WellfaresRari[i]); ++j)
+            Output << "★";
+        Output << endl;
+    }
 
     Output << endl << XPMemoria << " XP Memoria" << endl
            << XPSymphogear << " XP Symphogear" << endl
@@ -66,30 +73,54 @@ void Event () {
     Output << TotalCost << " " << CurrencyName;
 }
 
-void Convert (string & str) {
-    if (str == "4") str = "4* Memoria";
-    if (str == "5") str = "5* Memoria";
-    if (str == "4s") str = "4* Symphogear";
-    if (str == "5s") str = "5* Symphogear";
-    if (str == "5r") str = "5* Symphogear Rate-Up";
+void Convert (string & str, vector<string> RateUp) {
+    if (str == "40") str = "4* Memoria";
+    else if (str == "41") str = "4* Symphogear";
+    else if (str == "50") str = "5* Memoria";
+    else if (str == "51") str = "5* Symphogear";
+    else if (str == "52") str = "5* Symphogear Rate-Up";
+    else str = RateUp[stoi(str) - 1];
 }
 
 void Gacha() {
-    string GachaName, Step, RUS, RUM, EndDate;
+    string GachaName, line, EndDate;
     vector<string> Steps;
     vector<string> RateUpSG;
+    vector<string> RateUpSGElem;
+    vector<string> RateUpSGRari;
     vector<string> RateUpME;
+    vector<string> RateUpMERari;
     ifstream Input ("Gacha.txt");
 
     getline(Input, GachaName);
-    getline(Input, Step);
-    getline(Input, RUS);
-    getline(Input, RUM);
-    getline(Input, EndDate);
+    getline(Input, line);
 
-    Steps = split(Step, ';');
-    RateUpSG = split(RUS, ';');
-    RateUpME = split(RUM, ';');
+    while (line != "0") {
+        Steps.push_back(line);
+        getline(Input, line);
+    }
+
+    getline(Input, line);
+
+    while (line != "0") {
+        RateUpSG.push_back(line);
+        getline(Input, line);
+        RateUpSGElem.push_back(line);
+        getline(Input, line);
+        RateUpSGRari.push_back(line);
+        getline(Input, line);
+    }
+
+    getline(Input, line);
+
+    while (line != "0") {
+        RateUpME.push_back(line);
+        getline(Input, line);
+        RateUpMERari.push_back(line);
+        getline(Input, line);
+    }
+
+    getline(Input, EndDate);
 
     ofstream Output ("Gacha/" + GachaName + ".txt");
     Output << "__**Cost**__" << endl
@@ -100,7 +131,7 @@ void Gacha() {
            << "```" << endl;
 
     for (unsigned i (0); i < Steps.size(); ++i) {
-        Convert(Steps[i]);
+        Convert(Steps[i], RateUpSG);
         if (i + 1 < 10 && Steps.size() >= 10)
             Output << setw(2) << i + 1 << " : " << Steps[i] << endl;
         else
@@ -110,18 +141,27 @@ void Gacha() {
     Output <<"```" << endl
           << "__**Rate-up**__" << endl;
 
-    if (RUS != "0") {
+    if (RateUpSG.size() != 0) {
         Output << "Symphogear :" << endl;
 
-        for (unsigned i (0); i < RateUpSG.size(); ++i)
-            Output << "    - " << RateUpSG[i] << endl;
+        for (unsigned i (0); i < RateUpSG.size(); ++i) {
+            Output << "    - " << " :" << RateUpSGElem[i] << ":  "
+                   << RateUpSG[i] << "   ";
+            for (unsigned j (0); j < stoi(RateUpSGRari[i]); ++j)
+                Output << "★";
+            Output << endl;
+        }
     }
 
-    if(RUM != "0") {
+    if(RateUpME.size() != 0) {
         Output <<"Memoria :" << endl;
 
-        for (unsigned i (0); i < RateUpME.size(); ++i)
-            Output << "    - " << RateUpME[i] << endl;
+        for (unsigned i (0); i < RateUpME.size(); ++i) {
+            Output << "    - " << RateUpME[i] << "   ";
+            for (unsigned j (0); j < stoi(RateUpMERari[i]); ++j)
+                Output << "★";
+            Output << endl;
+        }
     }
 
     Output << endl
@@ -187,6 +227,15 @@ void Symphogear() {
         Output << "         - " << S2[i] << endl;
 }
 
+/*ToDo : event & gacha
+card
+element
+rarity
+card
+element
+rarity
+0
+*/
 int main()
 {
     Event();
