@@ -1,29 +1,32 @@
-BLOODY†CURSE
+DVERGR†DEARSPACE
 5
-Maria
-16/21
+Serena
+76/90
 body
 Symphogear User
-Increase CTD of :body: allies by 15% -> 30%
+Increase S.ATK of :body: allies by 15% → 25%
+Anti-paralyze
 Anti-stun
 Anti-charm
-Anti-sleep
-Deal an additional 30% -> 70% P.ATK on all attacks
-Reduce damage taken from attack that ignore defenses by 30% -> 50%
+Anti-seal
+Anti-instant death
+Reduce damage taken from attack that ignore defenses by 30% → 50%
+Increase :body: allies ATK by 10% → 30%
+Deacreas Opponents' ATK by 15% → 25%
 0
-56
-Physical
-Deal 170% ATK to 2 enemies
-If the target is :intelligence:, reduce its ATK by 30% for 3 turns
-For 3 turns, Increase own CTD by 30%
-For 3 turns, 30% chances to do an additional attack
+82
+Buff
+For 1 turn, all allies cannot receive abnormal state
+For 5 turns, increase own DEF by 40%
+For 5 turns, gain block damage
+For 5 turns, increase all :body: allies S.ATK by 25%
+For 7 turns, gain invulnerability to P.DMG & S.DMG that target 5 or more allies
 0
-49
-Physical
-Deal 180% ATK to 4 enemies
-Chances to Stun for 2 turns
-For 3 turns, Apply critical hit to every attack
-For 3 turns, Deal an additional 30% ATK if the target is Stun
-For 3 turns, Reduce own DEF by 50%
-Give yourself Berserk for 3 turns
+75
+Special
+For 5 turns, increase all :body: allies S.DMG by 25%
+For 5 turns, all :body: allies gain additionnal 30% S.ATK on every attack
+For 5 turns, increase all allies ATK by 20%
+Deal 200% ATK to 2 opponents
+Increase CD of targeted opponents by 20 seconds
 0

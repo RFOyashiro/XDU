@@ -1,12 +1,15 @@
-A Song to Know the World
-:dark: Explosive Coin
-Memories with Father
-The person to save
+Innoncent sister
+:intelligence: FAIRIAL†TRICK 
+4
+As a Little Sister
+4
+A Gentle Hand
+3
 0
-140
-240
-120
-absolute;dark;dexterity;body
-2019/10/31
-Memory fragments
-632440
+150
+150
+150
+strength;technique;body;intelligence
+2019/10/16
+Puddings
+316100

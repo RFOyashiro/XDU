@@ -1,0 +1,75 @@
+__**Cost**__
+```
+-
+```
+__**Steps**__
+```
+ 1 : Elemental Union
+ 2 : 4* Memoria
+ 3 : 5* Symphogear
+ 4 : 5* Memoria
+ 5 : 5* Symphogear Rate-Up
+ 6 : 5* Symphogear
+ 7 : 4* Memoria
+ 8 : 5* Memoria
+ 9 : 4* Memoria
+10 : Elemental Union
+11 : 5* Symphogear
+12 : 4* Memoria
+13 : 5* Memoria
+14 : 4* Memoria
+15 : Tornado Dance
+16 : 5* Memoria
+17 : 4* Memoria
+18 : 5* Symphogear
+19 : 4* Memoria
+20 : 5* Symphogear Rate-Up
+21 : 4* Memoria
+22 : 4* Memoria
+23 : Tornado Dance
+24 : 4* Memoria
+25 : Elemental Union
+26 : 5* Symphogear
+27 : 4* Memoria
+28 : 5* Symphogear Rate-Up
+29 : 5* Memoria
+30 : Tornado Dance
+31 : 5* Memoria
+32 : 4* Memoria
+33 : 5* Memoria
+34 : 4* Memoria
+35 : Elemental Union
+36 : 5* Symphogear
+37 : 4* Memoria
+38 : 5* Symphogear
+39 : 4* Memoria
+40 : Tornado Dance
+41 : 5* Memoria
+42 : 4* Memoria
+43 : 5* Memoria
+44 : 4* Memoria
+45 : Elemental Union
+46 : 5* Memoria
+47 : 4* Memoria
+48 : 5* Memoria
+49 : 4* Memoria
+50 : Elemental Union
+51 : 5* Symphogear
+52 : 4* Memoria
+53 : 5* Symphogear
+54 : 5* Symphogear Rate-Up
+55 : Tornado Dance
+56 : 5* Memoria
+57 : 5* Symphogear Rate-Up
+58 : 5* Memoria
+59 : 5* Symphogear Rate-Up
+60 : Elemental Union
+```
+__**Rate-up**__
+Symphogear :
+    -  :dark:  Tornado Dance  ★★★★★
+    -  :absolute:  Elemental Union  ★★★★★
+Memoria :
+    - An unforgattable memory   ★★★
+
+End Date : 2019/10/31 05:59 CEST

@@ -1,0 +1,29 @@
+Serena :body: : DVERGR†DEARSPACE ★★★★★ 76/90 (Symphogear User)
+
+Leader Skill : Increase S.ATK of :body: allies by 15% → 25%
+
+Passve Skill : 
+         - Anti-paralyze
+         - Anti-stun
+         - Anti-charm
+         - Anti-seal
+         - Anti-instant death
+         - Reduce damage taken from attack that ignore defenses by 30% → 50%
+         - Increase :body: allies ATK by 10% → 30%
+         - Deacreas Opponents' ATK by 15% → 25%
+
+Skill 1 : (CD 82)
+         - Buff
+         - For 1 turn, all allies cannot receive abnormal state
+         - For 5 turns, increase own DEF by 40%
+         - For 5 turns, gain block damage
+         - For 5 turns, increase all :body: allies S.ATK by 25%
+         - For 7 turns, gain invulnerability to P.DMG & S.DMG that target 5 or more allies
+
+Skill 2 : (CD 75)
+         - Special
+         - For 5 turns, increase all :body: allies S.DMG by 25%
+         - For 5 turns, all :body: allies gain additionnal 30% S.ATK on every attack
+         - For 5 turns, increase all allies ATK by 20%
+         - Deal 200% ATK to 2 opponents
+         - Increase CD of targeted opponents by 20 seconds

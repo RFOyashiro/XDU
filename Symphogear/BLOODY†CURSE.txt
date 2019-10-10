@@ -1,0 +1,26 @@
+Maria :body: : BLOODY†CURSE ★★★★★ 16/21 (Symphogear User)
+
+Leader Skill : Increase CTD of :body: allies by 15% -> 30%
+
+Passve Skill : 
+         - Anti-stun
+         - Anti-charm
+         - Anti-sleep
+         - Deal an additional 30% -> 70% P.ATK on all attacks
+         - Reduce damage taken from attack that ignore defenses by 30% -> 50%
+
+Skill 1 : (CD 56)
+         - Physical
+         - Deal 170% ATK to 2 enemies
+         - If the target is :intelligence:, reduce its ATK by 30% for 3 turns
+         - For 3 turns, Increase own CTD by 30%
+         - For 3 turns, 30% chances to do an additional attack
+
+Skill 2 : (CD 49)
+         - Physical
+         - Deal 180% ATK to 4 enemies
+         - Chances to Stun for 2 turns
+         - For 3 turns, Apply critical hit to every attack
+         - For 3 turns, Deal an additional 30% ATK if the target is Stun
+         - For 3 turns, Reduce own DEF by 50%
+         - Give yourself Berserk for 3 turns
