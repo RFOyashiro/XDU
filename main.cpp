@@ -3,6 +3,8 @@
 #include <sstream>
 #include <iomanip>
 #include <vector>
+#include "SymphogearCard.h"
+#include "MemoriaCard.h"
 
 using namespace std;
 
@@ -83,11 +85,11 @@ void Convert (string & str, vector<string> RateUp) {
 }
 
 void Gacha() {
+    SymphogearCard SGCardlist;
+    MemoriaCard MECardlist;
     string GachaName, line, EndDate;
     vector<string> Steps;
     vector<string> RateUpSG;
-    vector<string> RateUpSGElem;
-    vector<string> RateUpSGRari;
     vector<string> RateUpME;
     vector<string> RateUpMERari;
     ifstream Input ("Gacha.txt");
@@ -105,18 +107,12 @@ void Gacha() {
     while (line != "0") {
         RateUpSG.push_back(line);
         getline(Input, line);
-        RateUpSGElem.push_back(line);
-        getline(Input, line);
-        RateUpSGRari.push_back(line);
-        getline(Input, line);
     }
 
     getline(Input, line);
 
     while (line != "0") {
         RateUpME.push_back(line);
-        getline(Input, line);
-        RateUpMERari.push_back(line);
         getline(Input, line);
     }
 
@@ -145,9 +141,9 @@ void Gacha() {
         Output << "Symphogear :" << endl;
 
         for (unsigned i (0); i < RateUpSG.size(); ++i) {
-            Output << "    - " << " :" << RateUpSGElem[i] << ":  "
-                   << RateUpSG[i] << "   ";
-            for (unsigned j (0); j < stoi(RateUpSGRari[i]); ++j)
+            Output << "    - " << " :" << SGCardlist.GetElement(stoi(RateUpSG[i])) << ":  "
+                   << SGCardlist.GetName(stoi(RateUpSG[i])) << "   ";
+            for (unsigned j (0); j < stoi(SGCardlist.GetRarity(stoi(RateUpSG[i]))); ++j)
                 Output << "★";
             Output << endl;
         }
@@ -157,8 +153,8 @@ void Gacha() {
         Output <<"Memoria :" << endl;
 
         for (unsigned i (0); i < RateUpME.size(); ++i) {
-            Output << "    - " << RateUpME[i] << "   ";
-            for (unsigned j (0); j < stoi(RateUpMERari[i]); ++j)
+            Output << "    - " << MECardlist.GetName(stoi(RateUpME[i])) << "   ";
+            for (unsigned j (0); j < stoi(MECardlist.GetRarity(stoi(RateUpME[i]))); ++j)
                 Output << "★";
             Output << endl;
         }

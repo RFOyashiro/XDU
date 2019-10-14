@@ -1,0 +1,1173 @@
+1
+Hibiki Style: Spear Thrusting Strike
+strength
+3
+6
+Hibiki Style: Earth Penetrating Power
+spirit
+3
+46
+Hibiki Style: Swallow Spear
+dexterity
+3
+51
+Sudden Flash
+technique
+3
+56
+Phantom Resonance Sword: Real Attack
+technique
+3
+61
+Shadow Weaving
+intelligence
+3
+101
+FIERCE MAIDEN
+body
+3
+106
+QUEEN's INFERNO
+dexterity
+3
+151
+PAIN†THRUST
+intelligence
+3
+156
+PHANTOM†BRAVE
+strength
+3
+191
+FIERCE†SCAR
+technique
+3
+196
+Beta Style: Spiral Wave
+technique
+3
+201
+Gamma Style: Friction Blades
+intelligence
+3
+226
+Delta Style: Flying Axel Killer
+intelligence
+3
+231
+Delta Style: Charming Axel Killer
+body
+3
+241
+Grudge Blade: Hamelin
+strength
+3
+246
+Kill: Juliet
+spirit
+3
+276
+Shadow Fang: Nightingale
+technique
+3
+524
+Blue Flash
+dexterity
+3
+529
+Hibiki Style: Spear Thrusting Strike
+extreme
+3
+534
+Hibiki Style: Earth Penetrating Power
+intelligence
+3
+539
+Hibiki Style: Swallow Spear
+intelligence
+3
+544
+Sudden Flash
+extreme
+3
+549
+Shadow Weaving
+dexterity
+3
+564
+FIERCE MAIDEN
+intelligence
+3
+569
+QUEEN's INFERNO
+spirit
+3
+574
+PAIN†THRUST
+technique
+3
+579
+PHANTOM†BRAVE
+spirit
+3
+584
+FIERCE†SCAR
+extreme
+3
+589
+Beta Style: Spiral Wave
+dexterity
+3
+594
+Gamma Style: Friction Blades
+strength
+3
+599
+Beta Style: Spiral Wave
+extreme
+3
+604
+Delta Style: Charming Axel Killer
+strength
+3
+609
+Grudge Blade: Hamelin
+body
+3
+614
+Kill: Juliet
+strength
+3
+619
+Shadow Fang: Nightingale
+extreme
+3
+674
+POWER8SHINE
+strength
+3
+679
+ROSES OF DEATH
+strength
+3
+694
+Judgement Execution: Gretel
+technique
+3
+805
+Massacre Judge: Gothel
+intelligence
+3
+814
+REJECTION†DARKNESS
+spirit
+3
+828
+Lambda Style: Twin Blade Cross
+spirit
+3
+881
+Reverberation
+intelligence
+3
+1002
+QUEEN'S GUST
+extreme
+3
+1015
+GNOME†TRIAL
+extreme
+3
+1044
+Absolute Sky Stance
+body
+3
+1068
+Hibiki Style: Light Wave's Destructive Coliding
+intelligence
+3
+1111
+Hibiki Style: Skyfall Destruction
+technique
+3
+1146
+Reminiscence
+strength
+3
+1171
+XANA†TEARS
+body
+3
+1206
+ASSAULT MAIDEN
+intelligence
+3
+1234
+SATURN8BREAK
+dexterity
+3
+1278
+SPLASH PRIEST
+strength
+3
+1320
+BURST†RIPPER
+dexterity
+3
+1368
+Fierce Revolt: Hans
+dexterity
+3
+1373
+GRAVITY8PAIN
+intelligence
+3
+1440
+SILKY†RAY
+spirit
+3
+1608
+This is the power of a hero!
+spirit
+3
+11
+Hibiki Style: Spear's Violent Destruction
+body
+4
+16
+Hibiki Style: Fierce Tiger Soaring Paw
+strength
+4
+21
+Roar Wearing Madness
+extreme
+4
+66
+Wind Ring's Fiery Blades
+strength
+4
+71
+Blue Flash
+technique
+4
+86
+Thousand Tears
+intelligence
+4
+96
+Blue Sword Lightning Punishment
+body
+4
+111
+MEGA DETH PARTY
+strength
+4
+116
+NIRVANA GEDON
+extreme
+4
+121
+BILLION MAIDEN
+dexterity
+4
+141
+RED HOT RAIN
+intelligence
+4
+161
+HORIZON†SPEAR
+intelligence
+4
+166
+INFINITE†CRIME
+spirit
+4
+181
+TORTURE†DAGGER
+body
+4
+186
+ALOOF†KNIGHT
+body
+4
+206
+Alpha Style: 100 Sa?sara
+intelligence
+4
+211
+Gamma Style: Swastika Kasha
+technique
+4
+251
+Apparition: Aladdin
+dexterity
+4
+256
+Sealed Strike: Pinocchio
+spirit
+4
+271
+Peel Thorn: Jack
+spirit
+4
+509
+Hibiki Style: Sky Hammer Kick
+strength
+4
+514
+STARDUST8FOTON
+intelligence
+4
+634
+Flash
+spirit
+4
+639
+FAIRIAL†TRICK
+intelligence
+4
+644
+QUEEN'S ABYSS
+technique
+4
+664
+Tyrant Claw: Cheshire Cat
+technique
+4
+669
+Alpha Style: Giant Blade Sa?sara
+body
+4
+749
+STAB8METEOR
+strength
+4
+754
+STREAM†FICKLE
+dexterity
+4
+840
+SPEAR8ORBIT
+body
+4
+871
+Genjuro Style: Strong Attack
+technique
+4
+896
+DEEP PARADE
+dexterity
+4
+918
+SACRED†FIRE
+strength
+4
+923
+Christmas Eve's Lone Blade
+spirit
+4
+934
+Hibiki Style: Gospel Invitation Fist
+dexterity
+4
+949
+BAMBOO8NEBULA
+strength
+4
+978
+Knight's Ignited Flash
+dexterity
+4
+997
+Oblivion
+body
+4
+1034
+Hibiki Style: Striking Tornado Claw
+spirit
+4
+1039
+Wicked Leg: Gulliver
+body
+4
+1059
+WEEZER CRISIS
+spirit
+4
+1103
+Maelstrom Aquatic Blades
+dexterity
+4
+1121
+ARTHEMIS LOTUS
+technique
+4
+1166
+Lamentation
+body
+4
+1176
+RIDING†BLITZ
+technique
+4
+1201
+Hibiki Style: Blessed Meal Impact
+intelligence
+4
+1211
+Bad Eater: Maleen
+intelligence
+4
+1224
+Spoons' Rain
+spirit
+4
+1273
+Theta Style: Water Games
+strength
+4
+1296
+Sand's Sneak Assault
+technique
+4
+1325
+STARLIGHT8SLASH
+spirit
+4
+1363
+Sigma Style: Giant Blade's Fall
+strength
+4
+1393
+SPIRAL†QUIETUS
+intelligence
+4
+1445
+VOIVOD RUSH
+body
+4
+1507
+BRILLIANT†ROAD
+spirit
+4
+1560
+SAGITTARIUS8ARROW
+intelligence
+4
+1638
+Death Crush: Heinrich
+strength
+4
+1698
+Spirit's Judgement: Der Gevatter Tod
+dexterity
+4
+1717
+DWARF†ADVENTURE
+dexterity
+4
+26
+Hibiki Style: Star Stream Spear
+spirit
+5
+31
+Hibiki Style: Phoenix Pair Swallow Opposition
+strength
+5
+36
+Hibiki Style: Lightning Missile
+spirit
+5
+41
+Hibiki Style: Extra-Large Spear
+intelligence
+5
+76
+Heaven's Wrath
+strength
+5
+81
+Rakshasa Stance Zero
+intelligence
+5
+91
+Blue Flash Destroyer
+spirit
+5
+126
+GIGA ZEPPELIN
+technique
+5
+131
+MEGA DETH FUGA
+dexterity
+5
+146
+ARTHEMIS EIDOLON
+body
+5
+171
+EMPRESS†REBELLION
+strength
+5
+176
+SERE†NADE
+body
+5
+216
+Extreme Sigma Style: Forbidden Full Moon
+dexterity
+5
+221
+Extreme Sigma Style: Forbidden Full Moon IGNITE
+technique
+5
+236
+Murderous ? Style: Blowing Wheel
+body
+5
+261
+Opposite Scythe: Rapunzel
+dexterity
+5
+266
+Split Sky: Alice
+spirit
+5
+281
+Intense Void: Little One-Inch
+body
+5
+519
+ULTIMATE8COMET
+technique
+5
+649
+DESPAIR†BREAK
+technique
+5
+654
+Hibiki Style: Avidya Assault
+technique
+5
+659
+Light of Dawn
+extreme
+5
+684
+Final Alpha Style: Sa?sara Soaring
+strength
+5
+699
+Hibiki Style: Light Wearing's Palm
+body
+5
+704
+Flash of the Rider's Blade - Final Lightning
+body
+5
+709
+SPREAD ZEPPELIN
+intelligence
+5
+714
+NEMESIS†HAMMER
+spirit
+5
+719
+Final Beta Style: Slashing Steel's Web
+spirit
+5
+724
+Violent Kill: Mad Hatter
+intelligence
+5
+729
+SURFING PRIEST
+strength
+5
+734
+NOBLE†TEAR
+intelligence
+5
+739
+Rain Dance Slash
+dexterity
+5
+744
+Blue Flash Kshetra
+technique
+5
+759
+ETERNAL SABBATH
+spirit
+5
+822
+IMPERIAL EDGE
+extreme
+5
+834
+Purgatory
+strength
+5
+845
+I am a Hero !
+body
+5
+861
+Beta Style: Super Giant Saw Throwing
+intelligence
+5
+866
+DISTORTION GATE
+intelligence
+5
+876
+Genjuro Style: Shattering Sky Palm
+strength
+5
+891
+Final Song: Bandersnatch
+body
+5
+901
+Pi Style: Ice Blade Performance
+dexterity
+5
+908
+Hibiki Style: Heavenly Shooting Star Palm
+dexterity
+5
+913
+Darkness: Santa Claus
+strength
+5
+939
+Dazzling Flash
+body
+5
+944
+CRUEL†BATTLEDORE
+strength
+5
+954
+Black Paint
+technique
+5
+963
+SUPERGIANT8FLARE
+dexterity
+5
+973
+GREMLIN†ROYALE
+spirit
+5
+983
+JUDGEMENT†STRIKE
+dexterity
+5
+992
+Murderous X Style: Awanami's Sweeping Phantasm
+intelligence
+5
+1010
+Hibiki Style: Floral Love Striking Palm
+technique
+5
+1024
+SPLENDID†ROSE
+body
+5
+1029
+SYLPH†GARDEN
+body
+5
+1054
+Theta Style: Dragon's Judgement Summoning
+spirit
+5
+1073
+DRAGON8DUSK
+intelligence
+5
+1083
+NIRVANA MAGOG
+extreme
+5
+1088
+VIKING ALESTORM
+dexterity
+5
+1093
+Decapitation: Alvilda
+dexterity
+5
+1116
+Calamity Fall: Mulan
+technique
+5
+1126
+GLITTER†FLOOD
+spirit
+5
+1136
+Dark Kalpa: Turandot
+technique
+5
+1141
+SIRIUS8RUNWAY
+strength
+5
+1156
+Skanda Stance
+body
+5
+1161
+Extreme Sigma Style: Forbidden Spherical Halo
+body
+5
+1185
+Hibiki Style: Super Rank Spear's Violent Destruction
+technique
+5
+1191
+ORACLE†SANCTUARY
+intelligence
+5
+1196
+Eternal Love
+intelligence
+5
+1219
+Illusory Abyss: Marian
+spirit
+5
+1229
+Beta Style: Violent Helixs Collision
+dexterity
+5
+1243
+WHITE†RABBIT
+dexterity
+5
+1258
+Hibiki Style: Soaring Raging Stream Fist
+strength
+5
+1263
+Confidence's Echo
+strength
+5
+1268
+Punishment: Little Mermaid
+strength
+5
+1286
+ELEGANT†LUMIERE
+strength
+5
+1291
+JINN†SANCTION
+technique
+5
+1301
+QUEEN'S VORTEX
+technique
+5
+1310
+SUNFLAME8CREMATION
+dexterity
+5
+1315
+Celestial Blade's Judgment
+dexterity
+5
+1330
+MEGA DETH CARNIVAL
+body
+5
+1338
+Myriad Spheres
+technique
+5
+1343
+Aggressive Burst
+spirit
+5
+1348
+Trivial Mischief
+technique
+5
+1358
+Soaring Phoenix's Slash
+spirit
+5
+1378
+Final Alpha Style: Soaring Funeral Light Blade
+intelligence
+5
+1383
+Special Equipment Alpha Style: Heavy slicing feathers
+strength
+5
+1388
+Magical Armor: Kaguya Princess
+intelligence
+5
+1401
+Lion Whistle's Blade
+strength
+5
+1406
+Aid Lombard
+spirit
+5
+1411
+VOLLMOND†ANGRIFF
+dexterity
+5
+1424
+IGNIS†FATUUS
+intelligence
+5
+1430
+Hibiki Style: Mind's Machine Gun Fist
+spirit
+5
+1435
+Unknown Blade Remnants' Opposition
+spirit
+5
+1450
+Zenith's Soaring Phoenix's Flash
+body
+5
+1458
+Change †he Future
+strength
+5
+1463
+Swift Union of Wind and Moon
+intelligence
+5
+1468
+Reaping: Trude
+extreme
+5
+1473
+Murderous ? Style: Mischief's Transfiguration
+extreme
+5
+1478
+Eccentric Heart
+technique
+5
+1487
+DESTRUCTION SABBATH
+strength
+5
+1492
+BRILLIANT STONES
+body
+5
+1497
+Holy Sparkle
+body
+5
+1516
+DEADLY†PILAR
+body
+5
+1521
+Blue Menace
+dexterity
+5
+1526
+Certain Love Duo Shout
+body
+5
+1531
+Hibiki Style: King Tiger's Claws Attack
+technique
+5
+1536
+JUPITER8BURN
+technique
+5
+1545
+Siegstrahl
+strength
+5
+1550
+Kaiser Fist
+strength
+5
+1555
+Schatten Herrschaft
+strength
+5
+1565
+Cruel Vortex: Dormouse
+intelligence
+5
+1570
+Gentle Slasher
+strength
+5
+1582
+PLEIADES8SMASHER
+spirit
+5
+1587
+Gospel
+spirit
+5
+1592
+TOMTE†BLESSING
+spirit
+5
+1597
+Twin Star Hammer -DIASTER BLAST-
+technique
+5
+1618
+TESTAMENT
+intelligence
+5
+1623
+Theta Style: White Rabbit's Exorcism
+spirit
+5
+1628
+SUPRISE†SHOOT
+technique
+5
+1633
+BROWNIE†CHARM
+technique
+5
+1643
+Light of Heaven
+spirit
+5
+1648
+Hibiki Style: Violent Colliding Meteor Kick
+extreme
+5
+1653
+Holy Thunder's Sparkle
+intelligence
+5
+1658
+Extermination
+intelligence
+5
+1663
+CHIVALRY†FLAME
+strength
+5
+1668
+Hibiki Style: Eruptive Destruction
+strength
+5
+1678
+Hibiki Style: Sacred Pile-Drive
+spirit
+5
+1683
+QUEEN'S SILVERRAIN
+spirit
+5
+1688
+Sacred Punishment: White Knight
+strength
+5
+1693
+Hibiki Style: Dozens Flaming Fists Explosive
+technique
+5
+1707
+Light Knife Kshetra
+dexterity
+5
+1712
+ELEMENTAL METALLICA
+dexterity
+5
+1725
+FEARLESS†SEEKER
+spirit
+5
+1730
+DEIMOS8WITCH
+spirit
+5
+1743
+Theta Style: Pastel Palette
+body
+5
+1748
+Wild Party: Michelle
+body
+5
+1753
+Black Shout
+technique
+5
+1758
+Hibiki Style: STAR BEAT!
+technique
+5
+1763
+PASSIONATO AFTERGLOW
+technique
+5
+1770
+Esteemed Emperor's Judgment Blade
+technique
+5
+1776
+Dust Ripping: Ushiwakamaru
+dexterity
+5
+1784
+Jade Ring
+dexterity
+5
+1789
+GRATEFUL DEMISERAY
+spirit
+5
+1794
+SOUL†SHERD
+strength
+5
+1799
+IMPACT SLAYER
+spirit
+5
+1804
+Hibiki Style: Violent Depht Charge Claw
+spirit
+5
+1812
+DRAGON†SPELL
+strength
+5
+1821
+Grid Knight Circular
+dexterity
+5
+1826
+Hibiki Style: Grid Full Power Finish
+dexterity
+5
+1831
+Hibiki Style: Grid Beam
+strength
+5
+1842
+Final Omega Style: Dystopia
+body
+5
+1871
+Hibiki Style: Sunlight Palm
+strength
+5
+1876
+EXTENTION8SOLARRAY
+strength
+5
+1881
+INFINITY†GLANZ
+strength
+5
+1886
+SANDBURG†UNDINE
+intelligence
+5
+1891
+SHOWERMARS8PARASOL
+body
+5
+1903
+COSMIC8WING
+extreme
+5
+1908
+Mercenary Seahorse
+intelligence
+5
+1913
+Bounce Gel
+body
+5
+1918
+Shell Kirchenlied
+intelligence
+5
+1928
+Spiegelfun Cologne
+body
+5
+1934
+QUEEN'S DOWNPOUR
+dexterity
+5
+1939
+Flash of Murakumo
+technique
+5
+1944
+Ninja Art - Inexhaustible Killing Explosive
+technique
+5
+1949
+Ninja Art: Summon Technique [Toad]
+body
+5
+1955
+Demon's Angry Shout
+dexterity
+5
+1960
+BLOODY†CURSE
+body
+5
+1974
+TWINKLE†RIVERRAY
+strength
+5
+1979
+Evil Arrival: Die Boten des Todes
+body
+5
+1984
+Elemental Union
+absolute
+5
+1989
+Tornado Dance
+dark
+5
+1994
+Explosive Coin
+dark
+5
+2004
+DVERGR†DEARSPACE
+body
+5
+1738
+Synchrogazer
+spirit
+6
+1847
+Vitalization
+strength
+6
+1965
+Glorious Break
+technique
+6
+0

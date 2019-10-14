@@ -1,0 +1,982 @@
+286
+Walking home on a rainy day
+5
+287
+How does it taste?
+4
+288
+Where Tsubasa finds relief
+5
+289
+Shopping recommendations
+4
+290
+A cute sleeping face
+5
+291
+Warrior's rest
+5
+292
+A small private tutor
+4
+293
+A relaxing date
+5
+294
+A heart-pounding fast approach
+4
+295
+Princess hug
+5
+296
+Lady's taste evaluation
+4
+297
+Battle prelude
+5
+298
+Top artist
+3
+299
+First karaoke
+5
+300
+Doctors' medical exam
+5
+301
+Twin guitars
+5
+302
+The best and strongest stage!
+5
+304
+Bunny girls
+5
+305
+Tea ceremony experience
+5
+306
+Dancing performance
+5
+307
+Kimono dress-up challenge
+5
+308
+Physical education class
+4
+309
+A pajama party for two
+4
+310
+The combat-specialized model's true strength
+5
+311
+A moment after the bath
+5
+313
+The beginning of the day
+4
+314
+First experience with yoga
+5
+315
+A reception for masters
+4
+316
+Maria's unexpected special skill
+4
+317
+THe ultimate parfait
+4
+318
+Tennis match!
+4
+319
+Summer outing
+4
+320
+Memorial service of the death, death
+4
+321
+Ninjutsu training underway
+5
+322
+Returning home
+4
+323
+Both wings will play a song once more
+4
+324
+Congratulations on XD's release!
+4
+325
+Dumplings rather than flowers
+4
+329
+Calligraphy performance
+4
+330
+Garie's flower arrangement
+4
+331
+Difficult musical performance with a koto
+4
+332
+Two glamorous girls
+5
+334
+Hibiki gets a scolding
+3
+335
+For the sake of protecting...
+3
+336
+Cheering in Chris' room
+3
+337
+A relieved expression
+3
+338
+Shirabe's everyday life
+3
+339
+Kirika's decision
+3
+340
+Miku's kindness
+3
+341
+Just before the Live
+3
+342
+Serena watches over
+3
+343
+A Hero's Device
+3
+344
+As the commander
+3
+345
+Announcement of the medical checkup results
+3
+346
+Finé's last moments
+3
+347
+State of emergency
+3
+348
+Improving the Energy Converter
+3
+349
+Throne of solitude
+3
+350
+Smile of hatred
+3
+351
+Memory of a precious day
+3
+352
+Playing a song
+3
+354
+For the sake of becoming stronger
+3
+355
+Finé's love and hate
+3
+356
+Diva's collaboration
+3
+357
+The trio's strong bond
+3
+358
+Hero of salvation
+3
+359
+We're sneaking in
+3
+360
+Chubby upper arm
+3
+361
+For the sake of my purpose
+3
+362
+Teacher's scolding
+3
+363
+Carol's trump card
+3
+364
+Have a warm drink
+3
+624
+Autoscorer Garie
+3
+625
+Autoscorer Leiur
+3
+626
+Autoscorer Leiur's little sister
+3
+627
+Garie's fierce attack
+3
+628
+The escort for Solomon's cane
+3
+629
+Mission execution in crisis
+3
+630
+A place where I can belong
+3
+631
+298-yen feast
+3
+632
+Simpleness is unsuitable
+3
+633
+Philosophical fangs
+3
+764
+Soaked by the rain
+5
+765
+Divas' summer clothes
+4
+766
+Today's cooking practice
+3
+768
+The one who has the name of the end
+3
+769
+Kirika's sleeping habit
+4
+771
+Two cats
+4
+772
+The place where I belong
+4
+773
+Unfamiliar stylish
+4
+774
+Sarcastic smile
+4
+775
+A brief rest
+4
+776
+Light of salvation
+4
+778
+Mischievously killing time
+5
+779
+Fashionable even from the mouth
+4
+780
+The courage to apologize
+3
+781
+Mission in progress
+5
+782
+A longing admirer
+4
+783
+Kanade’s heavenly massage
+4
+784
+Resting on the veranda
+5
+785
+Miku's holiday
+4
+786
+Slashing weapon's defeat
+4
+787
+Playing in the sand
+4
+788
+A great strategy for gathering fish
+5
+789
+An excellent method to endure the heat
+5
+790
+Summer waitress
+4
+791
+Preparation for going out
+4
+792
+Cool scissors
+3
+793
+The ocean's promise
+3
+794
+Beach duel
+4
+796
+Sea's recreation
+3
+798
+Chris' training on ice
+4
+801
+The king's friend
+4
+802
+The academy students' summer vacation
+4
+803
+Gallant entry
+4
+804
+The pharaoh's resentment
+4
+810
+Total exhaustion
+5
+811
+Hibiki's Birthday 2017
+4
+812
+Maria's Birthday 2017
+4
+813
+Kanade's Birthday 2017
+4
+821
+AXZ Volume 1 Release Memorial
+5
+827
+Serena's birthday 2017
+4
+833
+AXZ Volume 2 Release Memorial
+5
+839
+Miku's Birthday 2017
+4
+850
+Showing the power
+3
+851
+Conviction of victory
+3
+852
+AXZ Volume 3 Release Memorial
+5
+886
+Adult's break time
+4
+888
+Believe in the song of your heart
+3
+889
+Convey my emotions
+3
+890
+Challenging the champion
+3
+906
+I'm your senior
+3
+907
+Shower time
+3
+928
+Two sore losers
+4
+929
+Christmas angels
+5
+930
+Rotemburo panic
+5
+931
+Black is okay, too
+3
+932
+Chris' Birthday 2017
+4
+933
+AXZ volume 4 release memorial
+5
+959
+Scholarship festival's preparation
+3
+960
+Look of determination
+3
+961
+Kimono's favorite
+4
+962
+Happy New Year 2018
+4
+968
+To the sky with a big kite
+4
+969
+Ecstatic expression
+3
+970
+Hanatsuki match
+5
+971
+Rotary seed throwing
+4
+972
+Master's stance
+4
+988
+As the little sister
+4
+989
+Expression of impatience
+3
+990
+A gentle hand
+3
+991
+AXZ Volume 5 Release Memorial
+5
+1007
+The job of a maid
+5
+1008
+Super operation chocolate cake
+4
+1009
+Shirabe's Birthday 2018
+4
+1020
+Hard fight to make sweets
+4
+1021
+Knowledge of Iai
+5
+1022
+Run to tomorrow
+4
+1023
+Uniform's charm
+5
+1049
+AXZ volume 6 release memorial
+5
+1050
+Phantom thief's entry
+4
+1051
+Innocent Serena
+3
+1052
+Symphogear Live 2018 Memorial
+4
+1053
+An intrigued Maria
+3
+1064
+A gentlemanly reception
+5
+1065
+Person to serve
+3
+1066
+Hina dolls arrangement
+4
+1067
+It's my turn
+3
+1078
+School at night
+5
+1079
+A cute doll
+4
+1080
+Commander's resolution
+3
+1081
+Early morning training
+5
+1082
+Shopping while returning from school
+4
+1108
+Which side is bad?
+3
+1109
+Winner of the duel
+4
+1110
+Arrogant thoughts
+3
+1131
+Kirika's Birthday 2018
+4
+1132
+Super special training to Chinese martial arts
+5
+1133
+Small banters
+3
+1134
+Expression of love
+4
+1135
+Seeking the dialogue
+3
+1151
+A nice and warm day outside
+5
+1152
+Infallible bow
+4
+1153
+Imminent danger
+3
+1154
+Foolish happiness
+5
+1155
+Fishing with a pole
+4
+1181
+The courage to retreat
+3
+1182
+Together with my partner
+4
+1183
+Importance of resigning
+3
+1184
+The three valkyries
+4
+1190
+Tsubasa's Birthday 2018
+4
+1216
+Maiden’s dream
+3
+1217
+This is a bride!
+4
+1218
+Sudden kiss
+3
+1240
+To make up for the past
+3
+1241
+Father's day gift
+4
+1242
+Elegant Dance
+5
+1253
+Maria's makeup instructions
+4
+1254
+The courage to step forward
+3
+1255
+First anniversary celebration
+4
+1256
+Misunderstanding
+3
+1257
+Have a bit
+5
+1283
+Watching the fireworks together
+4
+1284
+Evaluation of the absurdity of this world
+3
+1285
+Shoulders' ride
+4
+1306
+Cheerleader dance
+5
+1307
+I didn't make any errors
+3
+1308
+Shirabe's cooking classroom
+4
+1309
+Kanade's Birthday 2018
+4
+1335
+A moment of vacation
+3
+1336
+A very flashy entry
+3
+1337
+Maria's birthday 2018
+4
+1353
+For tomorrow
+5
+1354
+Live Scene Hibiki x Miku
+5
+1355
+Live Scene Maria x Shirabe x Kirika
+5
+1356
+Live Scene Hibiki x Tsubasa x Chris
+5
+1357
+Music Album 1 Release Memorial
+5
+1398
+Hibiki's Birthday 2018
+4
+1399
+Elder's advice
+3
+1400
+Patience limit
+3
+1416
+Two career women
+5
+1417
+To your perseverance
+4
+1418
+Pleasant chattering
+5
+1419
+Fanatic's path
+3
+1420
+TOKYO GAME SHOW 2018 Memorial
+4
+1421
+Sym-Sym-Symphogear!
+4
+1422
+Lady on radio!
+4
+1423
+Under the full moon
+4
+1429
+Leisure time
+4
+1455
+The strongest strike on earth
+3
+1456
+A close friend's encouragement
+3
+1457
+Serena's Birthday 2018
+4
+1483
+Secret: Miku's okonomiyaki (Miku-yaki)
+5
+1484
+Trick or treat!
+4
+1485
+Serious ping-pong showdown
+4
+1486
+Antagonist's appearance
+3
+1512
+Miku's Birthday 2018
+4
+1513
+The finest backup
+3
+1514
+An indifferent smile
+3
+1541
+Hibiki's place to call home
+4
+1542
+Ashamed expression
+3
+1543
+A reliable back
+4
+1544
+Fall's temptation
+5
+1575
+Researcher's justice
+3
+1576
+Alchemist's conviction
+3
+1602
+Christmas for the gentle kids
+5
+1603
+Borrowing things too big
+4
+1604
+Making memories
+4
+1605
+Stereotypical pose
+3
+1606
+Chris' Birthday 2018
+4
+1613
+My wish is...
+4
+1614
+Anpan's repayment
+4
+1615
+I'll take care of it!
+3
+1616
+????
+3
+1617
+Happy New Year 2019
+4
+1673
+Kotatsu's magical power
+5
+1674
+Shadow support
+4
+1675
+Return of kindness
+4
+1676
+Blessing of nature
+3
+1677
+A world without sunshine
+4
+1703
+Men's intensive training
+4
+1704
+A beauty turning around
+3
+1705
+Daily training
+3
+1706
+Shirabe's Birthday 2019
+4
+1722
+Desert island survival
+4
+1723
+Embodiment of motivation
+3
+1724
+Friendly skinship
+3
+1735
+Secrets to getting along
+5
+1736
+Tea time for two
+3
+1737
+The demon instructor Maria!
+4
+1768
+Sudden Session
+5
+1769
+Kirika's Birthday 2019
+4
+1781
+A nostalgic moment
+3
+1782
+Matching clothes
+5
+1783
+The strenous effort of a part-time job
+4
+1809
+Beautiful singing
+3
+1810
+Wind mischief
+4
+1811
+Beautiful melody
+3
+1817
+Foreign weapon
+5
+1818
+Big sigh
+3
+1819
+I'm a big sister
+4
+1820
+Tsubasa's Birthday 2019
+4
+1836
+Everything is under my control
+3
+1837
+Emergency operation
+4
+1838
+It's an emergency situation!
+3
+1852
+Let's make a Teru Teru Bozu
+5
+1853
+It looks like a lady, death!
+3
+1854
+Final Omega Style: Dystopia...?
+4
+1855
+Second anniversary celebration
+4
+1856
+Respective summer (beach volleyball)
+4
+1857
+Swaying divas
+5
+1858
+Flowers blooming in friendship
+4
+1859
+A book about love fortune-telling...and show me that?
+4
+1860
+Vercome to Ver splitting
+4
+1861
+Jumping Cagliostro (summer ver.)
+4
+1862
+Happy that the three of us worn yukata
+4
+1863
+Her song is dripping with blood.
+4
+1864
+Farewell, Gungnir.
+4
+1865
+The one that is all, shall bring light upon death.
+4
+1866
+The one that is all, shall bring light upon death.
+4
+1867
+The power to kill God exists in this hand that connects to others.
+4
+1868
+Smiling Hibiki
+3
+1869
+Cleaning the pool
+4
+1870
+Usual daily life
+3
+1896
+The beginning of summer
+5
+1897
+Kanade's Birthday 2019
+4
+1898
+Planetary observation
+3
+1899
+Summer training
+4
+1900
+Respective summer (watermelon splitting)
+4
+1901
+Respective summer (shaved ice)
+4
+1902
+Respective summer (sand play)
+4
+1923
+Be careful about sunburn
+3
+1924
+Summer queen
+3
+1925
+Contemporary watering hole
+3
+1926
+Bubble bath time
+4
+1927
+Maria's Birthday 2019
+4
+1933
+Beyond this gaze
+3
+1954
+Overflowing embarrassment
+3
+1970
+Hibiki's birthday 2019
+4
+1971
+Dangerous P.E. storage room evaluation
+5
+1972
+Evaluation of visible catastrophes
+3
+1973
+Uncontrollable destructive impulse
+4
+1999
+An unforgettable memory
+3
+2000
+Memories with father
+4
+2001
+The person to save
+3
+2002
+XV volume 1 release memorial
+5
+2003
+XV release memorial memoria
+5
+0
